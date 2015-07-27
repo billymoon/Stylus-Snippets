@@ -3,6 +3,8 @@ Stylus-Snippets
 
 Sublime Text plugin for Stylus Snippets (use with [Stylus plugin](https://github.com/billymoon/Stylus) instead of [emmet](https://github.com/sergeche/emmet-sublime/)).
 
+**n.b.** you might also be interested to check out this project: [stylus clean completions](https://github.com/lnikell/stylus-clean-completions)
+
 ## About this plugin
 
 The main [Stylus plugin](https://github.com/billymoon/Stylus) used to contain the snippets in this plugin, but was separated out into two, to allow people to use the recommended snippet expander [emmet](https://github.com/sergeche/emmet-sublime/) for a better coding experience. This package is maintained for users who for some reason do not want to use another snippet expander, and only want the stylus snippets that used to be in the main package.
